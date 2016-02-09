@@ -1,6 +1,7 @@
 package main
 import (
 	"./conf"
+	"net/http"
 	"github.com/go-martini/martini"
 )
 
