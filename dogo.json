@@ -1,0 +1,10 @@
+{
+    "WorkingDir": "{CUR_DIR}/src/",
+    "SourceDir": [
+        "/home/and-hom/projects/go-learn/src/"
+    ],
+    "SourceExt": [".c", ".cpp", ".go", ".h"],
+    "BuildCmd": "colorgo get ./... && colorgo build /home/and-hom/projects/go-learn/src/main.go",
+    "RunCmd": "main",
+    "Decreasing": 1
+}
