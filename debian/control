@@ -1,0 +1,10 @@
+Source: go-test
+Version: 0.1
+Section: misc
+Priority: optional
+Maintainer: Андрей Хомяков <and.hom@gmail.com>
+Description: Database catalogue with filtering
+ Web application for DB-engines info storage, browsing, searching and filtering
+ 
+Package: go-test
+Architecture: amd64

@@ -1,10 +1,10 @@
 {
-    "WorkingDir": "{CUR_DIR}/src/",
+    "WorkingDir": "{GOPATH}/src/github.com/and-hom/go-test",
     "SourceDir": [
-        "/home/and-hom/projects/go-learn/src/"
+        "{GOPATH}/src/github.com/and-hom/go-test"
     ],
     "SourceExt": [".c", ".cpp", ".go", ".h"],
-    "BuildCmd": "colorgo get ./... && colorgo build /home/and-hom/projects/go-learn/src/main.go",
-    "RunCmd": "main",
+    "BuildCmd": "./build.sh",
+    "RunCmd": "./go-test",
     "Decreasing": 1
 }

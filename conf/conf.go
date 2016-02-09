@@ -6,7 +6,7 @@ import (
 )
 
 func init() {
-	homedir := os.Getenv("USER_HOME")
+	homedir := os.Getenv("HOME")
 	fmt.Printf("HOME=%s\n", homedir)
 }
 

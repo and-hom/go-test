@@ -1,0 +1,7 @@
+main
+*.swp
+*.log
+debian/files
+debian/substvars
+debian/tmp
+obj-*

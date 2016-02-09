@@ -1,0 +1,3 @@
+#!/bin/sh -e
+colorgo test ./...
+colorgo build github.com/and-hom/go-test
