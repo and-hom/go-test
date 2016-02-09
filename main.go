@@ -1,6 +1,6 @@
 package main
 import (
-	"conf"
+	"github.com/and-hom/go_test/conf"
 	"net/http"
 	"github.com/go-martini/martini"
 )
